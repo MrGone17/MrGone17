@@ -1,3 +1,1 @@
-## 👾 Pacman Mode
-
-![Pacman](https://media.giphy.com/media/Tdnnp2vV6BzvO/giphy.gif)
+![Pacman](https://raw.githubusercontent.com/kogisin/pacman-game-js/master/assets/pacman.gif)
