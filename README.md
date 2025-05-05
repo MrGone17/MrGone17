@@ -1,1 +1,1 @@
-![Pacman](https://raw.githubusercontent.com/kogisin/pacman-game-js/master/assets/pacman.gif)
+![Pacman](https://github.com/sourabhan/pacman/blob/master/pacman.gif?raw=true)
