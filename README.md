@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Laravel+%7C+Livewire+%7C+TailwindCSS;Open+Source+Enthusiast;Let's+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Laravel+%7C+Filament+%7C+TailwindCSS;Open+Source+Enthusiast;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,tailwind,js,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,filament,tailwind,js,html,css,git,vscode" />
 </p>
 
 ---
