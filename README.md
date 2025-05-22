@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm <a href="https://yourwebsite.com" target="_blank">Your Name</a> 👋
+  Hi there, I'm <a href="https://yourwebsite.com" target="_blank">Muhammad Gilang Pratama</a> 👋
 </h1>
 
 <p align="center">
