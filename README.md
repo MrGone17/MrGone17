@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Laravel+Developer;Filament+%7C+Livewire+Enthusiast;Building+Modern+Web+Applications;Always+Learning+New+Things+🚀" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=120&section=header"/>
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -32,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,livewire,tailwind,js,html,css,mysql,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,filament,vuejs,tailwind,js,html,css,mysql,git,vscode,figma" />
 </p>
 
 ---
@@ -46,22 +42,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MrGone17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGone17&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MrGone17&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 👾 Pacman Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
