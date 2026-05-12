@@ -35,7 +35,7 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/muhammad-gilang-b09508240](https://www.linkedin.com/in/muhammad-gilang-pratama-b09508240/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-gilang-pratama-b09508240/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Firefox&logoColor=white" /></a>
 </p>
