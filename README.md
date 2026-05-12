@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,filament,vuejs,tailwind,js,html,css,mysql,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vuejs,tailwind,js,html,css,mysql,git,vscode,figma" />
 </p>
 
 ---
