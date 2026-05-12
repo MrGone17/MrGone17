@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Muhammad Gilang Pratama</h1>
-<h3 align="center">Fullstack Web Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Software Developer (Cargloss Group)</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Laravel+%7C+Filament+%7C+Livewire+Developer;Building+Digital+Village+Systems;Passionate+About+Web+Development;Always+Learning+New+Things" />
@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="mailto:youremail@example.com">
+  <a href="muhammadgilangpratamaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
