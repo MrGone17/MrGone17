@@ -33,16 +33,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/MrGone17">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MrGone17&repo=SiDesa&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
