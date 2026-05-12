@@ -1,42 +1,67 @@
-<h1 align="center">
-  Hi there, I'm <a href="https://yourwebsite.com" target="_blank">Muhammad Gilang Pratama</a> 👋
-</h1>
+<h1 align="center">Hey 👋, I'm Muhammad Gilang Pratama</h1>
+<h3 align="center">Fullstack Web Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Fullstack+Web+Developer;Laravel+%7C+Filament+%7C+Livewire+%7C+TailwindCSS;Open+Source+Enthusiast;Let's+build+something+awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Laravel+%7C+Filament+%7C+Livewire+Developer;Building+Digital+Village+Systems;Passionate+About+Web+Development;Always+Learning+New+Things" />
 </p>
 
 ---
 
-### 💻 Tech Stack
+## 🚀 About Me
+
+- 🔭 Currently building **Digital Village System**
+- 🌱 Learning **Advanced Laravel Architecture**
+- 💡 Interested in **Fullstack Development**
+- ⚡ Fun fact: I love building real-world web apps
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,js,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,tailwind,js,html,css,mysql,git,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrGone17&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrGone17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGone17&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrGone17&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGone17&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MrGone17&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Let's Connect
+## 🏆 GitHub Trophy
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-gilang-pratama-b09508240/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Firefox&logoColor=white" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MrGone17&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrGone17&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhammad-gilang-pratama-b09508240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
